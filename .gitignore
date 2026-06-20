@@ -1,0 +1,12 @@
+# Compiled class files / build output
+*.class
+/out/
+/build/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+*.iml
+.vscode/
